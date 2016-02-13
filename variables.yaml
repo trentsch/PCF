@@ -6,6 +6,4 @@
 
 \f0\fs24 \cf0 pcf_var:\
   var_set_1:\
-     var1: test1\
-  var_set_2:\
-    var1: test2  }
+     var1: test1\  }
